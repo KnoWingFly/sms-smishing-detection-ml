@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Fernando"
+  given-names: "Sunarto"
+  orcid: "https://orcid.org/my-orcid?orcid=0009-0005-1976-6641"
+title: "sms-spam-detection-ml"
+version: 0.1.0
+doi: 10.5281/zenodo.19651118
+date-released: 2026-04-19
+url: "https://doi.org/10.5281/zenodo.19651118"
